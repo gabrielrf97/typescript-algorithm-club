@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "run": "bun run"
+  },
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}
